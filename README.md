@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Static Badge](https://img.shields.io/badge/LinkedIn-blue) ---> [Perfil](www.linkedin.com/in/manuel-del-castillo)
+<a target="_blank" href="www.linkedin.com/in/manuel-del-castillo">
+<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
+</a>
