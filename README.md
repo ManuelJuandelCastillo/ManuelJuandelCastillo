@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ManuelJuandelCastillo/ManuelJuandelCastillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a target="blank" href="https://www.linkedin.com/in/manuel-del-castillo">
-<img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue">
-</a>
+
+<head>
+  <img src="https://www.canva.com/design/DAFyVdjOC8k/view"></img>
+</head>
