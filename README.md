@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 <h1>Hola mundo! 👋 </h1>
 </head>
 <p>Soy <strong>Manu</strong>, técnico superior en programación, carrera que cursé en la Universidad Nacional de Lomas de Zamora. También sigo capacitándome de forma autodidacta y siguiendo diferentes cursos.</p>
-
+<!--
 ### Lenguajes
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,java,py)](https://skillicons.dev)
-
+<!--
 ### Otras tecnologías
 [![My Skills](https://skillicons.dev/icons?i=git,linux,powershell,bash,vscode,mysql)](https://skillicons.dev)
-
+<!--
 ### 🌱 Ahora estoy aprendiendo
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
